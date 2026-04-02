@@ -1,0 +1,5 @@
+Python English by Jenny playlist ID - PLdo5W4Nhv31bZSiqiOL5ta39vSnBxpOPT
+COURSE_ID = "py_jenny" 
+COURSE_SUBJECT = "Python"
+CHANNEL_NAME = "JennyslecturesCSIT"
+PLAYLIST_ID = "PLdo5W4Nhv31bZSiqiOL5ta39vSnBxpOPT" 

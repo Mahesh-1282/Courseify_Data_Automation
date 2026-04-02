@@ -1,0 +1,1388 @@
+[
+    {
+        "topic_id": "topic_0",
+        "video_id": "6i3EGqOBRiU",
+        "title": "Introduction to Python Course | Python for beginners",
+        "is_processed": true,
+        "ai_data": {
+            "suggested_name": "Introduction to Python Course | Python for beginners",
+            "markdown_notes": "Notes unavailable.",
+            "practice_test": []
+        }
+    },
+    {
+        "topic_id": "topic_1",
+        "video_id": "DInMru2Eq6E",
+        "title": "Introduction to Python Programming | Python for Beginners #lec1",
+        "is_processed": true,
+        "ai_data": {
+            "suggested_name": "Introduction to Python Programming | Python for Beginners #lec1",
+            "markdown_notes": "Notes unavailable.",
+            "practice_test": []
+        }
+    },
+    {
+        "topic_id": "topic_2",
+        "video_id": "1UzSDMJRh8c",
+        "title": "History of Python | Python Tutorials for Beginners #lec2",
+        "is_processed": true,
+        "ai_data": {
+            "suggested_name": "History of Python | Python Tutorials for Beginners #lec2",
+            "markdown_notes": "Notes unavailable.",
+            "practice_test": []
+        }
+    },
+    {
+        "topic_id": "topic_3",
+        "video_id": "La1BdF_sunw",
+        "title": "Download and Install Python (3.10.6) and Pycharm | Python Tutorials for Beginners #lec3",
+        "is_processed": true,
+        "ai_data": {
+            "suggested_name": "Download and Install Python (3.10.6) and Pycharm | Python Tutorials for Beginners #lec3",
+            "markdown_notes": "Notes unavailable.",
+            "practice_test": []
+        }
+    },
+    {
+        "topic_id": "topic_4",
+        "video_id": "lygaoUnJKF4",
+        "title": "Writing First Python Program | Printing to Console in Python | Python Tutorials for Beginners #lec4",
+        "is_processed": true,
+        "ai_data": {
+            "suggested_name": "Writing First Python Program | Printing to Console in Python | Python Tutorials for Beginners #lec4",
+            "markdown_notes": "Notes unavailable.",
+            "practice_test": []
+        }
+    },
+    {
+        "topic_id": "topic_5",
+        "video_id": "FP6qQgJI5f4",
+        "title": "P_05 Coding Exercises for Beginners in Python - Exercise #1",
+        "is_processed": true,
+        "ai_data": {
+            "suggested_name": "P_05 Coding Exercises for Beginners in Python - Exercise #1",
+            "markdown_notes": "Notes unavailable.",
+            "practice_test": []
+        }
+    },
+    {
+        "topic_id": "topic_6",
+        "video_id": "6Nu9cvINQLk",
+        "title": "P_06 print() function & String concatenation(using +) in Python | Python Tutorials for Beginners",
+        "is_processed": true,
+        "ai_data": {
+            "suggested_name": "P_06 print() function & String concatenation(using +) in Python | Python Tutorials for Beginners",
+            "markdown_notes": "Notes unavailable.",
+            "practice_test": []
+        }
+    },
+    {
+        "topic_id": "topic_7",
+        "video_id": "sa97IyIOHxU",
+        "title": "P_07 Input function in Python | Take User Input in Python | Python Tutorials for Beginners",
+        "is_processed": true,
+        "ai_data": {
+            "suggested_name": "P_07 Input function in Python | Take User Input in Python | Python Tutorials for Beginners",
+            "markdown_notes": "Notes unavailable.",
+            "practice_test": []
+        }
+    },
+    {
+        "topic_id": "topic_8",
+        "video_id": "a43BIxiZ5EM",
+        "title": "P_08 Variables in Python | Python Tutorials for Beginners",
+        "is_processed": true,
+        "ai_data": {
+            "suggested_name": "P_08 Variables in Python | Python Tutorials for Beginners",
+            "markdown_notes": "Notes unavailable.",
+            "practice_test": []
+        }
+    },
+    {
+        "topic_id": "topic_9",
+        "video_id": "A8aYYz6YGCA",
+        "title": "P_09 Coding Exercises for Beginners in Python | Exercise #2 | Program to swap two numbers",
+        "is_processed": true,
+        "ai_data": {
+            "suggested_name": "P_09 Coding Exercises for Beginners in Python | Exercise #2 | Program to swap two numbers",
+            "markdown_notes": "Notes unavailable.",
+            "practice_test": []
+        }
+    },
+    {
+        "topic_id": "topic_10",
+        "video_id": "Vn4RuZ4Y2M0",
+        "title": "P_10 Variable Naming Rules in Python | Python Tutorials for Beginners",
+        "is_processed": true,
+        "ai_data": {
+            "suggested_name": "P_10 Variable Naming Rules in Python | Python Tutorials for Beginners",
+            "markdown_notes": "Notes unavailable.",
+            "practice_test": []
+        }
+    },
+    {
+        "topic_id": "topic_11",
+        "video_id": "TTepNRy0wj8",
+        "title": "P_11 Data Types in Python | Python Tutorials for Beginners",
+        "is_processed": true,
+        "ai_data": {
+            "suggested_name": "P_11 Data Types in Python | Python Tutorials for Beginners",
+            "markdown_notes": "Notes unavailable.",
+            "practice_test": []
+        }
+    },
+    {
+        "topic_id": "topic_12",
+        "video_id": "_WY-p2ZKv9Q",
+        "title": "P_12 Type Checking, Type Error and Type Conversion | Type Casting in Python",
+        "is_processed": true,
+        "ai_data": {
+            "suggested_name": "P_12 Type Checking, Type Error and Type Conversion | Type Casting in Python",
+            "markdown_notes": "Notes unavailable.",
+            "practice_test": []
+        }
+    },
+    {
+        "topic_id": "topic_13",
+        "video_id": "b7QWOgVjj1M",
+        "title": "P_13 Coding Exercises for Beginners in Python | Exercise #3 | Program to add digits of a number",
+        "is_processed": true,
+        "ai_data": {
+            "suggested_name": "P_13 Coding Exercises for Beginners in Python | Exercise #3 | Program to add digits of a number",
+            "markdown_notes": "Notes unavailable.",
+            "practice_test": []
+        }
+    },
+    {
+        "topic_id": "topic_14",
+        "video_id": "kvVPeBBZdtM",
+        "title": "P_14 Operators in Python | Arithmetic Operators | Python Tutorials for Beginners",
+        "is_processed": true,
+        "ai_data": {
+            "suggested_name": "P_14 Operators in Python | Arithmetic Operators | Python Tutorials for Beginners",
+            "markdown_notes": "Notes unavailable.",
+            "practice_test": []
+        }
+    },
+    {
+        "topic_id": "topic_15",
+        "video_id": "ELNIUknegOE",
+        "title": "P_15 Operators in Python | Assignment and Comparison Operators | Python Tutorials for Beginners",
+        "is_processed": true,
+        "ai_data": {
+            "suggested_name": "P_15 Operators in Python | Assignment and Comparison Operators | Python Tutorials for Beginners",
+            "markdown_notes": "Notes unavailable.",
+            "practice_test": []
+        }
+    },
+    {
+        "topic_id": "topic_16",
+        "video_id": "-Mx5popgTtE",
+        "title": "Operators in Python | Logical Operators | Python Tutorials for Beginners #lec16",
+        "is_processed": true,
+        "ai_data": {
+            "suggested_name": "Operators in Python | Logical Operators | Python Tutorials for Beginners #lec16",
+            "markdown_notes": "Notes unavailable.",
+            "practice_test": []
+        }
+    },
+    {
+        "topic_id": "topic_17",
+        "video_id": "XbjQ-heGd58",
+        "title": "Operators in Python | Bitwise Operators | Python Tutorials for Beginners #lec17",
+        "is_processed": true,
+        "ai_data": {
+            "suggested_name": "Operators in Python | Bitwise Operators | Python Tutorials for Beginners #lec17",
+            "markdown_notes": "Notes unavailable.",
+            "practice_test": []
+        }
+    },
+    {
+        "topic_id": "topic_18",
+        "video_id": "BG3lg589HRE",
+        "title": "Identity Operators in Python | Python Tutorials for Beginners #lec18",
+        "is_processed": true,
+        "ai_data": {
+            "suggested_name": "Identity Operators in Python | Python Tutorials for Beginners #lec18",
+            "markdown_notes": "Notes unavailable.",
+            "practice_test": []
+        }
+    },
+    {
+        "topic_id": "topic_19",
+        "video_id": "MHl0Jj15crA",
+        "title": "Membership Operators in Python | Python Tutorials for Beginners #lec19",
+        "is_processed": true,
+        "ai_data": {
+            "suggested_name": "Membership Operators in Python | Python Tutorials for Beginners #lec19",
+            "markdown_notes": "Notes unavailable.",
+            "practice_test": []
+        }
+    },
+    {
+        "topic_id": "topic_20",
+        "video_id": "0kLylf5uNNc",
+        "title": "Coding Exercise for Beginners in Python | Exercise #4 | Python for Beginners #lec20",
+        "is_processed": true,
+        "ai_data": {
+            "suggested_name": "Coding Exercise for Beginners in Python | Exercise #4 | Python for Beginners #lec20",
+            "markdown_notes": "Notes unavailable.",
+            "practice_test": []
+        }
+    },
+    {
+        "topic_id": "topic_21",
+        "video_id": "CLjw2nCMpSY",
+        "title": "round() function in Python | Python Tutorials for Beginners #lec21",
+        "is_processed": true,
+        "ai_data": {
+            "suggested_name": "round() function in Python | Python Tutorials for Beginners #lec21",
+            "markdown_notes": "Notes unavailable.",
+            "practice_test": []
+        }
+    },
+    {
+        "topic_id": "topic_22",
+        "video_id": "xGkF9Y38Gsc",
+        "title": "f-Strings in Python | Python Tutorials for Beginners #lec22",
+        "is_processed": true,
+        "ai_data": {
+            "suggested_name": "f-Strings in Python | Python Tutorials for Beginners #lec22",
+            "markdown_notes": "Notes unavailable.",
+            "practice_test": []
+        }
+    },
+    {
+        "topic_id": "topic_23",
+        "video_id": "O2V97JC8zOY",
+        "title": "Coding Exercise for Beginners in Python| Exercise 5 | Python for Beginners #lec23",
+        "is_processed": true,
+        "ai_data": {
+            "suggested_name": "Coding Exercise for Beginners in Python| Exercise 5 | Python for Beginners #lec23",
+            "markdown_notes": "Notes unavailable.",
+            "practice_test": []
+        }
+    },
+    {
+        "topic_id": "topic_24",
+        "video_id": "MMzXz7EDTZM",
+        "title": "If & If Else Conditional Statements in Python | Python Tutorials for Beginners#lec24",
+        "is_processed": true,
+        "ai_data": {
+            "suggested_name": "If & If Else Conditional Statements in Python | Python Tutorials for Beginners#lec24",
+            "markdown_notes": "Notes unavailable.",
+            "practice_test": []
+        }
+    },
+    {
+        "topic_id": "topic_25",
+        "video_id": "WOvtTLePD3M",
+        "title": "Coding Exercise for Beginners in Python | Exercise 6| Python for Beginners #lec25",
+        "is_processed": true,
+        "ai_data": {
+            "suggested_name": "Coding Exercise for Beginners in Python | Exercise 6| Python for Beginners #lec25",
+            "markdown_notes": "Notes unavailable.",
+            "practice_test": []
+        }
+    },
+    {
+        "topic_id": "topic_26",
+        "video_id": "7498T9qPygI",
+        "title": "Nested If Else & elif Statements in Python | Python Tutorials for Beginners #lec26",
+        "is_processed": true,
+        "ai_data": {
+            "suggested_name": "Nested If Else & elif Statements in Python | Python Tutorials for Beginners #lec26",
+            "markdown_notes": "Notes unavailable.",
+            "practice_test": []
+        }
+    },
+    {
+        "topic_id": "topic_27",
+        "video_id": "a3n_9k06dY8",
+        "title": "P_27 Coding Exercise for Beginners in Python | Exercise 7 | Python Tutorials for Beginners",
+        "is_processed": true,
+        "ai_data": {
+            "suggested_name": "P_27 Coding Exercise for Beginners in Python | Exercise 7 | Python Tutorials for Beginners",
+            "markdown_notes": "Notes unavailable.",
+            "practice_test": []
+        }
+    },
+    {
+        "topic_id": "topic_28",
+        "video_id": "sY6j_UR3pGI",
+        "title": "P_28 Coding Exercise for Beginners in Python | Exercise 8 | Python Tutorials for Beginners",
+        "is_processed": true,
+        "ai_data": {
+            "suggested_name": "P_28 Coding Exercise for Beginners in Python | Exercise 8 | Python Tutorials for Beginners",
+            "markdown_notes": "Notes unavailable.",
+            "practice_test": []
+        }
+    },
+    {
+        "topic_id": "topic_29",
+        "video_id": "O3MA3Hn7c2E",
+        "title": "P_29 Multiple if Statements in Python  | Python Tutorials for Beginners",
+        "is_processed": true,
+        "ai_data": {
+            "suggested_name": "P_29 Multiple if Statements in Python  | Python Tutorials for Beginners",
+            "markdown_notes": "Notes unavailable.",
+            "practice_test": []
+        }
+    },
+    {
+        "topic_id": "topic_30",
+        "video_id": "9OwSWGguQXs",
+        "title": "P_30 Coding Exercise for Beginners in Python | Exercise 9 | Python Tutorials for Beginners",
+        "is_processed": true,
+        "ai_data": {
+            "suggested_name": "P_30 Coding Exercise for Beginners in Python | Exercise 9 | Python Tutorials for Beginners",
+            "markdown_notes": "Notes unavailable.",
+            "practice_test": []
+        }
+    },
+    {
+        "topic_id": "topic_31",
+        "video_id": "iRF5AB1VRS8",
+        "title": "P_31 Coding Exercise for Beginners in Python | Love Calculator | Python Tutorials for Beginners",
+        "is_processed": true,
+        "ai_data": {
+            "suggested_name": "P_31 Coding Exercise for Beginners in Python | Love Calculator | Python Tutorials for Beginners",
+            "markdown_notes": "Notes unavailable.",
+            "practice_test": []
+        }
+    },
+    {
+        "topic_id": "topic_32",
+        "video_id": "1tnFQDo05hQ",
+        "title": "P_32 List in Python and List Functions | Python Tutorials for Beginners",
+        "is_processed": true,
+        "ai_data": {
+            "suggested_name": "P_32 List in Python and List Functions | Python Tutorials for Beginners",
+            "markdown_notes": "Notes unavailable.",
+            "practice_test": []
+        }
+    },
+    {
+        "topic_id": "topic_33",
+        "video_id": "khZKoe0_B0I",
+        "title": "P_33  Random Module in Python | Python Tutorials for Beginners",
+        "is_processed": true,
+        "ai_data": {
+            "suggested_name": "P_33  Random Module in Python | Python Tutorials for Beginners",
+            "markdown_notes": "Notes unavailable.",
+            "practice_test": []
+        }
+    },
+    {
+        "topic_id": "topic_34",
+        "video_id": "7niNK-917fI",
+        "title": "P_34 Coding Exercise for Beginners in Python | Heads or Tails | Python Tutorials for Beginners",
+        "is_processed": true,
+        "ai_data": {
+            "suggested_name": "P_34 Coding Exercise for Beginners in Python | Heads or Tails | Python Tutorials for Beginners",
+            "markdown_notes": "Notes unavailable.",
+            "practice_test": []
+        }
+    },
+    {
+        "topic_id": "topic_35",
+        "video_id": "ORMBycShqnc",
+        "title": "Coding Exercise for Beginners in Python |Exercise 12 | Python Tutorials for Beginners #lec35",
+        "is_processed": true,
+        "ai_data": {
+            "suggested_name": "Coding Exercise for Beginners in Python |Exercise 12 | Python Tutorials for Beginners #lec35",
+            "markdown_notes": "Notes unavailable.",
+            "practice_test": []
+        }
+    },
+    {
+        "topic_id": "topic_36",
+        "video_id": "wpmXETzX6xc",
+        "title": "Fix Python Index Error:  List Index Out of Range | Python Tutorials for Beginners #lec36",
+        "is_processed": true,
+        "ai_data": {
+            "suggested_name": "Fix Python Index Error:  List Index Out of Range | Python Tutorials for Beginners #lec36",
+            "markdown_notes": "Notes unavailable.",
+            "practice_test": []
+        }
+    },
+    {
+        "topic_id": "topic_37",
+        "video_id": "KEpmUPxxjxI",
+        "title": "Nested List in Python | Python Tutorials for Beginners #lec37",
+        "is_processed": true,
+        "ai_data": {
+            "suggested_name": "Nested List in Python | Python Tutorials for Beginners #lec37",
+            "markdown_notes": "Notes unavailable.",
+            "practice_test": []
+        }
+    },
+    {
+        "topic_id": "topic_38",
+        "video_id": "jTIODDVCAus",
+        "title": "Coding Exercise for Beginners in Python |Exercise 13 | Python Tutorials for Beginners #lec38",
+        "is_processed": true,
+        "ai_data": {
+            "suggested_name": "Coding Exercise for Beginners in Python |Exercise 13 | Python Tutorials for Beginners #lec38",
+            "markdown_notes": "Notes unavailable.",
+            "practice_test": []
+        }
+    },
+    {
+        "topic_id": "topic_39",
+        "video_id": "Qcefu1jVPds",
+        "title": "Python Project 1 | Rock Paper Scissors Game in Python | Python for Beginners #lec39",
+        "is_processed": true,
+        "ai_data": {
+            "suggested_name": "Python Project 1 | Rock Paper Scissors Game in Python | Python for Beginners #lec39",
+            "markdown_notes": "Notes unavailable.",
+            "practice_test": []
+        }
+    },
+    {
+        "topic_id": "topic_40",
+        "video_id": "zLFituJxj6c",
+        "title": "Tuples in Python | Python Tutorials for Beginners #lec40",
+        "is_processed": true,
+        "ai_data": {
+            "suggested_name": "Tuples in Python | Python Tutorials for Beginners #lec40",
+            "markdown_notes": "Notes unavailable.",
+            "practice_test": []
+        }
+    },
+    {
+        "topic_id": "topic_41",
+        "video_id": "CTg_To0PwI8",
+        "title": "Sets in Python | Python Tutorials for Beginners #lec41 Part1",
+        "is_processed": true,
+        "ai_data": {
+            "suggested_name": "Sets in Python | Python Tutorials for Beginners #lec41 Part1",
+            "markdown_notes": "Notes unavailable.",
+            "practice_test": []
+        }
+    },
+    {
+        "topic_id": "topic_42",
+        "video_id": "eEbTvbG3los",
+        "title": "Sets Methods in Python | Python Tutorials for Beginners | #Lec41 Part 2",
+        "is_processed": true,
+        "ai_data": {
+            "suggested_name": "Sets Methods in Python | Python Tutorials for Beginners | #Lec41 Part 2",
+            "markdown_notes": "Notes unavailable.",
+            "practice_test": []
+        }
+    },
+    {
+        "topic_id": "topic_43",
+        "video_id": "bniKXiB72lU",
+        "title": "Sets Methods in Python | Python Tutorials for Beginners #lec41 Part3",
+        "is_processed": true,
+        "ai_data": {
+            "suggested_name": "Sets Methods in Python | Python Tutorials for Beginners #lec41 Part3",
+            "markdown_notes": "Notes unavailable.",
+            "practice_test": []
+        }
+    },
+    {
+        "topic_id": "topic_44",
+        "video_id": "k1-ZjeIDnPo",
+        "title": "Sets Methods in Python | Python Tutorials for Beginners #lec41 Part4",
+        "is_processed": true,
+        "ai_data": {
+            "suggested_name": "Sets Methods in Python | Python Tutorials for Beginners #lec41 Part4",
+            "markdown_notes": "Notes unavailable.",
+            "practice_test": []
+        }
+    },
+    {
+        "topic_id": "topic_45",
+        "video_id": "k4R7FwL2XYA",
+        "title": "For Loop in Python | Python Tutorials for Beginners #lec42",
+        "is_processed": true,
+        "ai_data": {
+            "suggested_name": "For Loop in Python | Python Tutorials for Beginners #lec42",
+            "markdown_notes": "Notes unavailable.",
+            "practice_test": []
+        }
+    },
+    {
+        "topic_id": "topic_46",
+        "video_id": "jDJ718e-YIw",
+        "title": "For else in Python | Python Tutorials for Beginners #lec43",
+        "is_processed": true,
+        "ai_data": {
+            "suggested_name": "For else in Python | Python Tutorials for Beginners #lec43",
+            "markdown_notes": "Notes unavailable.",
+            "practice_test": []
+        }
+    },
+    {
+        "topic_id": "topic_47",
+        "video_id": "u-Ptydkqh7E",
+        "title": "Coding Exercise for Beginners in Python |Exercise 14 | Python Tutorials for Beginners #lec44",
+        "is_processed": true,
+        "ai_data": {
+            "suggested_name": "Coding Exercise for Beginners in Python |Exercise 14 | Python Tutorials for Beginners #lec44",
+            "markdown_notes": "Notes unavailable.",
+            "practice_test": []
+        }
+    },
+    {
+        "topic_id": "topic_48",
+        "video_id": "rzMdf7cmHc0",
+        "title": "Coding Exercise for Beginners in Python |Exercise 15 | Python Tutorials for Beginners #lec45",
+        "is_processed": true,
+        "ai_data": {
+            "suggested_name": "Coding Exercise for Beginners in Python |Exercise 15 | Python Tutorials for Beginners #lec45",
+            "markdown_notes": "Notes unavailable.",
+            "practice_test": []
+        }
+    },
+    {
+        "topic_id": "topic_49",
+        "video_id": "YNDgutH6gjs",
+        "title": "Range function in Python | Python range() function |Python Tutorials for Beginners #lec46",
+        "is_processed": true,
+        "ai_data": {
+            "suggested_name": "Range function in Python | Python range() function |Python Tutorials for Beginners #lec46",
+            "markdown_notes": "Notes unavailable.",
+            "practice_test": []
+        }
+    },
+    {
+        "topic_id": "topic_50",
+        "video_id": "sI_Wb3JPQg8",
+        "title": "Coding Exercise for Beginners in Python |Exercise 16 | Python Tutorials for Beginners #lec47",
+        "is_processed": true,
+        "ai_data": {
+            "suggested_name": "Coding Exercise for Beginners in Python |Exercise 16 | Python Tutorials for Beginners #lec47",
+            "markdown_notes": "Notes unavailable.",
+            "practice_test": []
+        }
+    },
+    {
+        "topic_id": "topic_51",
+        "video_id": "nxYOmS7p6qY",
+        "title": "Coding Exercise for Beginners in Python with solution | Exercise 17 |Python for Beginners #lec48",
+        "is_processed": true,
+        "ai_data": {
+            "suggested_name": "Coding Exercise for Beginners in Python with solution | Exercise 17 |Python for Beginners #lec48",
+            "markdown_notes": "Notes unavailable.",
+            "practice_test": []
+        }
+    },
+    {
+        "topic_id": "topic_52",
+        "video_id": "hGuA9WKTtRs",
+        "title": "Python Project 2 | Password Generator in Python | Python for Beginners #lec49",
+        "is_processed": true,
+        "ai_data": {
+            "suggested_name": "Python Project 2 | Password Generator in Python | Python for Beginners #lec49",
+            "markdown_notes": "Notes unavailable.",
+            "practice_test": []
+        }
+    },
+    {
+        "topic_id": "topic_53",
+        "video_id": "KOfCkEIxh_o",
+        "title": "While Loop in Python | Python Tutorials for Beginners #lec50",
+        "is_processed": true,
+        "ai_data": {
+            "suggested_name": "While Loop in Python | Python Tutorials for Beginners #lec50",
+            "markdown_notes": "Notes unavailable.",
+            "practice_test": []
+        }
+    },
+    {
+        "topic_id": "topic_54",
+        "video_id": "DpE5TJNNb9Q",
+        "title": "Break Continue Pass in Python | Loop Control Statements | Python Tutorials for Beginners #lec51",
+        "is_processed": true,
+        "ai_data": {
+            "suggested_name": "Break Continue Pass in Python | Loop Control Statements | Python Tutorials for Beginners #lec51",
+            "markdown_notes": "Notes unavailable.",
+            "practice_test": []
+        }
+    },
+    {
+        "topic_id": "topic_55",
+        "video_id": "xVndqyPFu-k",
+        "title": "Indentation in Python | Python Tutorials for Beginners #lec52",
+        "is_processed": true,
+        "ai_data": {
+            "suggested_name": "Indentation in Python | Python Tutorials for Beginners #lec52",
+            "markdown_notes": "Notes unavailable.",
+            "practice_test": []
+        }
+    },
+    {
+        "topic_id": "topic_56",
+        "video_id": "dIFRJe2uHB4",
+        "title": "Hangman Game for beginners |Introduction | Python Project for beginners #lec53",
+        "is_processed": true,
+        "ai_data": {
+            "suggested_name": "Hangman Game for beginners |Introduction | Python Project for beginners #lec53",
+            "markdown_notes": "Notes unavailable.",
+            "practice_test": []
+        }
+    },
+    {
+        "topic_id": "topic_57",
+        "video_id": "earqUEBeudg",
+        "title": "Hangman Game for beginners |Flowchart | Python Project for beginners #lec54",
+        "is_processed": true,
+        "ai_data": {
+            "suggested_name": "Hangman Game for beginners |Flowchart | Python Project for beginners #lec54",
+            "markdown_notes": "Notes unavailable.",
+            "practice_test": []
+        }
+    },
+    {
+        "topic_id": "topic_58",
+        "video_id": "tMJbCWHAWQ4",
+        "title": "Hangman Game in Python | Python Project #3 | Python Project for beginners #lec55",
+        "is_processed": true,
+        "ai_data": {
+            "suggested_name": "Hangman Game in Python | Python Project #3 | Python Project for beginners #lec55",
+            "markdown_notes": "Notes unavailable.",
+            "practice_test": []
+        }
+    },
+    {
+        "topic_id": "topic_59",
+        "video_id": "eezLhJ5oGYg",
+        "title": "Functions in Python | Introduction | Python for beginners #lec56",
+        "is_processed": true,
+        "ai_data": {
+            "suggested_name": "Functions in Python | Introduction | Python for beginners #lec56",
+            "markdown_notes": "Notes unavailable.",
+            "practice_test": []
+        }
+    },
+    {
+        "topic_id": "topic_60",
+        "video_id": "-gxUjXAG96U",
+        "title": "Coding Exercise for Beginners in Python with solution | Exercise 18| Python for Beginners #lec57",
+        "is_processed": true,
+        "ai_data": {
+            "suggested_name": "Coding Exercise for Beginners in Python with solution | Exercise 18| Python for Beginners #lec57",
+            "markdown_notes": "Notes unavailable.",
+            "practice_test": []
+        }
+    },
+    {
+        "topic_id": "topic_61",
+        "video_id": "O79JMm7GFlA",
+        "title": "Coding Exercise for Beginners in Python with solution |Exercise 19 | Python for Beginners #lec58",
+        "is_processed": true,
+        "ai_data": {
+            "suggested_name": "Coding Exercise for Beginners in Python with solution |Exercise 19 | Python for Beginners #lec58",
+            "markdown_notes": "Notes unavailable.",
+            "practice_test": []
+        }
+    },
+    {
+        "topic_id": "topic_62",
+        "video_id": "JpBamlGdb5I",
+        "title": "Coding Exercise for Beginners in Python with solution | Exercise 20 |Python for Beginners #lec59",
+        "is_processed": true,
+        "ai_data": {
+            "suggested_name": "Coding Exercise for Beginners in Python with solution | Exercise 20 |Python for Beginners #lec59",
+            "markdown_notes": "Notes unavailable.",
+            "practice_test": []
+        }
+    },
+    {
+        "topic_id": "topic_63",
+        "video_id": "uY8QPE0dcSs",
+        "title": "Functions with Arguments in Python | Parameters vs Arguments | Python Tutorials for Beginners #lec60",
+        "is_processed": true,
+        "ai_data": {
+            "suggested_name": "Functions with Arguments in Python | Parameters vs Arguments | Python Tutorials for Beginners #lec60",
+            "markdown_notes": "Notes unavailable.",
+            "practice_test": []
+        }
+    },
+    {
+        "topic_id": "topic_64",
+        "video_id": "OCbSteqZsKQ",
+        "title": "Types of Arguments in Python | Python Tutorials for Beginners #lec61",
+        "is_processed": true,
+        "ai_data": {
+            "suggested_name": "Types of Arguments in Python | Python Tutorials for Beginners #lec61",
+            "markdown_notes": "Notes unavailable.",
+            "practice_test": []
+        }
+    },
+    {
+        "topic_id": "topic_65",
+        "video_id": "pY6mZ-RbBZg",
+        "title": "*args and **kwargs in Python | Python Tutorials for Beginners #lec62",
+        "is_processed": true,
+        "ai_data": {
+            "suggested_name": "*args and **kwargs in Python | Python Tutorials for Beginners #lec62",
+            "markdown_notes": "Notes unavailable.",
+            "practice_test": []
+        }
+    },
+    {
+        "topic_id": "topic_66",
+        "video_id": "vvroag3Qds8",
+        "title": "Coding Exercise for Beginners in Python with solution | Exercise 21 |Python for Beginners #lec63",
+        "is_processed": true,
+        "ai_data": {
+            "suggested_name": "Coding Exercise for Beginners in Python with solution | Exercise 21 |Python for Beginners #lec63",
+            "markdown_notes": "Notes unavailable.",
+            "practice_test": []
+        }
+    },
+    {
+        "topic_id": "topic_67",
+        "video_id": "P2l6tzvHQWo",
+        "title": "Coding Exercise for Beginners in Python with solution | Exercise 22 | Python for Beginners #lec64",
+        "is_processed": true,
+        "ai_data": {
+            "suggested_name": "Coding Exercise for Beginners in Python with solution | Exercise 22 | Python for Beginners #lec64",
+            "markdown_notes": "Notes unavailable.",
+            "practice_test": []
+        }
+    },
+    {
+        "topic_id": "topic_68",
+        "video_id": "0heejX0rtII",
+        "title": "Python Project #4 | Caesar Cipher Introduction - part1 | Python Project for beginners #lec65",
+        "is_processed": true,
+        "ai_data": {
+            "suggested_name": "Python Project #4 | Caesar Cipher Introduction - part1 | Python Project for beginners #lec65",
+            "markdown_notes": "Notes unavailable.",
+            "practice_test": []
+        }
+    },
+    {
+        "topic_id": "topic_69",
+        "video_id": "HWhUuO7VV1o",
+        "title": "Python Project for beginners #4| Caesar Cipher - Complete Code | Python for Beginners #lec66",
+        "is_processed": true,
+        "ai_data": {
+            "suggested_name": "Python Project for beginners #4| Caesar Cipher - Complete Code | Python for Beginners #lec66",
+            "markdown_notes": "Notes unavailable.",
+            "practice_test": []
+        }
+    },
+    {
+        "topic_id": "topic_70",
+        "video_id": "C29qMZb9HrA",
+        "title": "Dictionaries in python | Dictionaries Built-in functions | Python Tutorials for Beginners #lec67",
+        "is_processed": true,
+        "ai_data": {
+            "suggested_name": "Dictionaries in python | Dictionaries Built-in functions | Python Tutorials for Beginners #lec67",
+            "markdown_notes": "Notes unavailable.",
+            "practice_test": []
+        }
+    },
+    {
+        "topic_id": "topic_71",
+        "video_id": "l-2HkbQymmM",
+        "title": "Coding Exercise for Beginners in Python with solution | Exercise 23 | Python for Beginners #lec68",
+        "is_processed": true,
+        "ai_data": {
+            "suggested_name": "Coding Exercise for Beginners in Python with solution | Exercise 23 | Python for Beginners #lec68",
+            "markdown_notes": "Notes unavailable.",
+            "practice_test": []
+        }
+    },
+    {
+        "topic_id": "topic_72",
+        "video_id": "jakXbai-Wic",
+        "title": "Nested Dictionaries in Python | Python Tutorials for Beginners #lec69",
+        "is_processed": true,
+        "ai_data": {
+            "suggested_name": "Nested Dictionaries in Python | Python Tutorials for Beginners #lec69",
+            "markdown_notes": "Notes unavailable.",
+            "practice_test": []
+        }
+    },
+    {
+        "topic_id": "topic_73",
+        "video_id": "O1-whIFkco0",
+        "title": "Coding Exercise for Beginners in Python with solution | Exercise 24 | Python for Beginners #lec70",
+        "is_processed": true,
+        "ai_data": {
+            "suggested_name": "Coding Exercise for Beginners in Python with solution | Exercise 24 | Python for Beginners #lec70",
+            "markdown_notes": "Notes unavailable.",
+            "practice_test": []
+        }
+    },
+    {
+        "topic_id": "topic_74",
+        "video_id": "O_48EL9Zg0E",
+        "title": "Python Project for beginners #5| Silent Auction Program-part 1  | Python for Beginners #lec71",
+        "is_processed": true,
+        "ai_data": {
+            "suggested_name": "Python Project for beginners #5| Silent Auction Program-part 1  | Python for Beginners #lec71",
+            "markdown_notes": "Notes unavailable.",
+            "practice_test": []
+        }
+    },
+    {
+        "topic_id": "topic_75",
+        "video_id": "oS8FekoPFKM",
+        "title": "Python Project for beginners #5| Silent Auction Program-Complete Code | Python for Beginners #lec72",
+        "is_processed": true,
+        "ai_data": {
+            "suggested_name": "Python Project for beginners #5| Silent Auction Program-Complete Code | Python for Beginners #lec72",
+            "markdown_notes": "Notes unavailable.",
+            "practice_test": []
+        }
+    },
+    {
+        "topic_id": "topic_76",
+        "video_id": "LF7gVwJP8BA",
+        "title": "Functions with Return Statement in Python | Python Tutorials for Beginners #lec73",
+        "is_processed": true,
+        "ai_data": {
+            "suggested_name": "Functions with Return Statement in Python | Python Tutorials for Beginners #lec73",
+            "markdown_notes": "Notes unavailable.",
+            "practice_test": []
+        }
+    },
+    {
+        "topic_id": "topic_77",
+        "video_id": "-tb0Ur5_pjU",
+        "title": "Return Multiple values from a Function |Multiple return Statements| Python for Beginners #lec74",
+        "is_processed": true,
+        "ai_data": {
+            "suggested_name": "Return Multiple values from a Function |Multiple return Statements| Python for Beginners #lec74",
+            "markdown_notes": "Notes unavailable.",
+            "practice_test": []
+        }
+    },
+    {
+        "topic_id": "topic_78",
+        "video_id": "_LMhfUIWfiU",
+        "title": "Coding Exercise for Beginners in Python with solution | Exercise 25 | Python for Beginners #lec75",
+        "is_processed": true,
+        "ai_data": {
+            "suggested_name": "Coding Exercise for Beginners in Python with solution | Exercise 25 | Python for Beginners #lec75",
+            "markdown_notes": "Notes unavailable.",
+            "practice_test": []
+        }
+    },
+    {
+        "topic_id": "topic_79",
+        "video_id": "19PXDJCU3oc",
+        "title": "print vs return in Python | What is the Difference?| Python Tutorials for Beginners #lec76",
+        "is_processed": true,
+        "ai_data": {
+            "suggested_name": "print vs return in Python | What is the Difference?| Python Tutorials for Beginners #lec76",
+            "markdown_notes": "Notes unavailable.",
+            "practice_test": []
+        }
+    },
+    {
+        "topic_id": "topic_80",
+        "video_id": "vlJ--mCPBCg",
+        "title": "Python Project for beginners #6| Calculator -Complete Code | Python for Beginners #lec77",
+        "is_processed": true,
+        "ai_data": {
+            "suggested_name": "Python Project for beginners #6| Calculator -Complete Code | Python for Beginners #lec77",
+            "markdown_notes": "Notes unavailable.",
+            "practice_test": []
+        }
+    },
+    {
+        "topic_id": "topic_81",
+        "video_id": "3iIq6gq_xRo",
+        "title": "local and Global Scope in Python | Python Tutorials for Beginners #lec78",
+        "is_processed": true,
+        "ai_data": {
+            "suggested_name": "local and Global Scope in Python | Python Tutorials for Beginners #lec78",
+            "markdown_notes": "Notes unavailable.",
+            "practice_test": []
+        }
+    },
+    {
+        "topic_id": "topic_82",
+        "video_id": "4mmqLhTxTVk",
+        "title": "Global keyword in Python | Modify a Global Variable | Python Tutorials for Beginners #lec79",
+        "is_processed": true,
+        "ai_data": {
+            "suggested_name": "Global keyword in Python | Modify a Global Variable | Python Tutorials for Beginners #lec79",
+            "markdown_notes": "Notes unavailable.",
+            "practice_test": []
+        }
+    },
+    {
+        "topic_id": "topic_83",
+        "video_id": "QXX2ySfwEBM",
+        "title": "Python Project for beginners #7| Guess The Number -Complete Code | Python for Beginners #lec80",
+        "is_processed": true,
+        "ai_data": {
+            "suggested_name": "Python Project for beginners #7| Guess The Number -Complete Code | Python for Beginners #lec80",
+            "markdown_notes": "Notes unavailable.",
+            "practice_test": []
+        }
+    },
+    {
+        "topic_id": "topic_84",
+        "video_id": "wxvYoQBCap4",
+        "title": "Debugging in Python | Debugging Tips | Python Tutorials for Beginners #lec81",
+        "is_processed": true,
+        "ai_data": {
+            "suggested_name": "Debugging in Python | Debugging Tips | Python Tutorials for Beginners #lec81",
+            "markdown_notes": "Notes unavailable.",
+            "practice_test": []
+        }
+    },
+    {
+        "topic_id": "topic_85",
+        "video_id": "BbBUns9yDEM",
+        "title": "Python Project for beginners #8| Higher Lower Game - Complete Code | Python for Beginners #lec82",
+        "is_processed": true,
+        "ai_data": {
+            "suggested_name": "Python Project for beginners #8| Higher Lower Game - Complete Code | Python for Beginners #lec82",
+            "markdown_notes": "Notes unavailable.",
+            "practice_test": []
+        }
+    },
+    {
+        "topic_id": "topic_86",
+        "video_id": "oREXmJPvLWk",
+        "title": "Python Project for beginners #9| Coffee Machine Project | Python for Beginners #lec83",
+        "is_processed": true,
+        "ai_data": {
+            "suggested_name": "Python Project for beginners #9| Coffee Machine Project | Python for Beginners #lec83",
+            "markdown_notes": "Notes unavailable.",
+            "practice_test": []
+        }
+    },
+    {
+        "topic_id": "topic_87",
+        "video_id": "Ic7ZBKqkS1E",
+        "title": "OOP in Python | Object Oriented Programming | Python for Beginners #lec84",
+        "is_processed": true,
+        "ai_data": {
+            "suggested_name": "OOP in Python | Object Oriented Programming | Python for Beginners #lec84",
+            "markdown_notes": "Notes unavailable.",
+            "practice_test": []
+        }
+    },
+    {
+        "topic_id": "topic_88",
+        "video_id": "Gvm2Sg1rZek",
+        "title": "Classes and Objects in Python | OOP in Python | Python for Beginners #lec85",
+        "is_processed": true,
+        "ai_data": {
+            "suggested_name": "Classes and Objects in Python | OOP in Python | Python for Beginners #lec85",
+            "markdown_notes": "Notes unavailable.",
+            "practice_test": []
+        }
+    },
+    {
+        "topic_id": "topic_89",
+        "video_id": "G6Bd6tJ9ft0",
+        "title": "Self and __init__() method in Python | Python Tutorials for Beginners #lec86",
+        "is_processed": true,
+        "ai_data": {
+            "suggested_name": "Self and __init__() method in Python | Python Tutorials for Beginners #lec86",
+            "markdown_notes": "Notes unavailable.",
+            "practice_test": []
+        }
+    },
+    {
+        "topic_id": "topic_90",
+        "video_id": "tJNsmm7ZUmk",
+        "title": "Class Methods in Python | How to add Methods in Class | Python Tutorials for Beginners #lec87",
+        "is_processed": true,
+        "ai_data": {
+            "suggested_name": "Class Methods in Python | How to add Methods in Class | Python Tutorials for Beginners #lec87",
+            "markdown_notes": "Notes unavailable.",
+            "practice_test": []
+        }
+    },
+    {
+        "topic_id": "topic_91",
+        "video_id": "cezNT43xmAY",
+        "title": "Coding Exercise for Beginners in Python with solution | Exercise 26 | Python for Beginners #lec88",
+        "is_processed": true,
+        "ai_data": {
+            "suggested_name": "Coding Exercise for Beginners in Python with solution | Exercise 26 | Python for Beginners #lec88",
+            "markdown_notes": "Notes unavailable.",
+            "practice_test": []
+        }
+    },
+    {
+        "topic_id": "topic_92",
+        "video_id": "4SO3sScshvA",
+        "title": "Inheritance in Python | Python Tutorials for Beginners #lec89",
+        "is_processed": true,
+        "ai_data": {
+            "suggested_name": "Inheritance in Python | Python Tutorials for Beginners #lec89",
+            "markdown_notes": "Notes unavailable.",
+            "practice_test": []
+        }
+    },
+    {
+        "topic_id": "topic_93",
+        "video_id": "Smlbgao6VL4",
+        "title": "Multiple Inheritance in Python | Python Tutorials for Beginners #lec90",
+        "is_processed": true,
+        "ai_data": {
+            "suggested_name": "Multiple Inheritance in Python | Python Tutorials for Beginners #lec90",
+            "markdown_notes": "Notes unavailable.",
+            "practice_test": []
+        }
+    },
+    {
+        "topic_id": "topic_94",
+        "video_id": "Fv1xFd3LzJo",
+        "title": "Multilevel Inheritance in Python | Python Tutorials for Beginners #lec91",
+        "is_processed": true,
+        "ai_data": {
+            "suggested_name": "Multilevel Inheritance in Python | Python Tutorials for Beginners #lec91",
+            "markdown_notes": "Notes unavailable.",
+            "practice_test": []
+        }
+    },
+    {
+        "topic_id": "topic_95",
+        "video_id": "UYxJBJQZU-I",
+        "title": "Hierarchical Inheritance in Python | Python Tutorials for Beginners #lec92",
+        "is_processed": true,
+        "ai_data": {
+            "suggested_name": "Hierarchical Inheritance in Python | Python Tutorials for Beginners #lec92",
+            "markdown_notes": "Notes unavailable.",
+            "practice_test": []
+        }
+    },
+    {
+        "topic_id": "topic_96",
+        "video_id": "E6aDQWX-ASc",
+        "title": "Hybrid Inheritance in Python | Python Tutorials for Beginners #lec93",
+        "is_processed": true,
+        "ai_data": {
+            "suggested_name": "Hybrid Inheritance in Python | Python Tutorials for Beginners #lec93",
+            "markdown_notes": "Notes unavailable.",
+            "practice_test": []
+        }
+    },
+    {
+        "topic_id": "topic_97",
+        "video_id": "PSMYqfMP3Cs",
+        "title": "Diamond Problem in Inheritance | MRO in Python | C3 Linearization Algorithm Python Programming#lec94",
+        "is_processed": true,
+        "ai_data": {
+            "suggested_name": "Diamond Problem in Inheritance | MRO in Python | C3 Linearization Algorithm Python Programming#lec94",
+            "markdown_notes": "Notes unavailable.",
+            "practice_test": []
+        }
+    },
+    {
+        "topic_id": "topic_98",
+        "video_id": "Sx1Hjr67xO0",
+        "title": "File Handling in Python | Python Tutorials for Beginners #lec95",
+        "is_processed": true,
+        "ai_data": {
+            "suggested_name": "File Handling in Python | Python Tutorials for Beginners #lec95",
+            "markdown_notes": "Notes unavailable.",
+            "practice_test": []
+        }
+    },
+    {
+        "topic_id": "topic_99",
+        "video_id": "YhmF0NQO0LQ",
+        "title": "Python Project for beginners| Quiz Game Project | Python for Beginners #lec96",
+        "is_processed": true,
+        "ai_data": {
+            "suggested_name": "Python Project for beginners| Quiz Game Project | Python for Beginners #lec96",
+            "markdown_notes": "Notes unavailable.",
+            "practice_test": []
+        }
+    },
+    {
+        "topic_id": "topic_100",
+        "video_id": "L6BoHn8NdX4",
+        "title": "Modules in Python | Python Tutorials for Beginners #lec97",
+        "is_processed": true,
+        "ai_data": {
+            "suggested_name": "Modules in Python | Python Tutorials for Beginners #lec97",
+            "markdown_notes": "Notes unavailable.",
+            "practice_test": []
+        }
+    },
+    {
+        "topic_id": "topic_101",
+        "video_id": "TenfEct8AxM",
+        "title": "Abstraction in Python | Python OOP Concepts| Python Tutorials for Beginners #lec98",
+        "is_processed": true,
+        "ai_data": {
+            "suggested_name": "Abstraction in Python | Python OOP Concepts| Python Tutorials for Beginners #lec98",
+            "markdown_notes": "Notes unavailable.",
+            "practice_test": []
+        }
+    },
+    {
+        "topic_id": "topic_102",
+        "video_id": "64tJdFVh1Vs",
+        "title": "Abstract Class & Abstract Method in Python | Python Tutorials for Beginners #lec99",
+        "is_processed": true,
+        "ai_data": {
+            "suggested_name": "Abstract Class & Abstract Method in Python | Python Tutorials for Beginners #lec99",
+            "markdown_notes": "Notes unavailable.",
+            "practice_test": []
+        }
+    },
+    {
+        "topic_id": "topic_103",
+        "video_id": "aF6usfcTYqQ",
+        "title": "Access Modifiers in Python | Public Protected Private  | Python for Beginners #lec100",
+        "is_processed": true,
+        "ai_data": {
+            "suggested_name": "Access Modifiers in Python | Public Protected Private  | Python for Beginners #lec100",
+            "markdown_notes": "Notes unavailable.",
+            "practice_test": []
+        }
+    },
+    {
+        "topic_id": "topic_104",
+        "video_id": "fjIUS1jlVkA",
+        "title": "Encapsulation in Python | Getters & Setters methods | Python Tutorials for Beginners #lec101",
+        "is_processed": true,
+        "ai_data": {
+            "suggested_name": "Encapsulation in Python | Getters & Setters methods | Python Tutorials for Beginners #lec101",
+            "markdown_notes": "Notes unavailable.",
+            "practice_test": []
+        }
+    },
+    {
+        "topic_id": "topic_105",
+        "video_id": "UPT4Q_sTOpY",
+        "title": "Polymorphism in Python  | Python Tutorials for Beginners #lec102",
+        "is_processed": true,
+        "ai_data": {
+            "suggested_name": "Polymorphism in Python  | Python Tutorials for Beginners #lec102",
+            "markdown_notes": "Notes unavailable.",
+            "practice_test": []
+        }
+    },
+    {
+        "topic_id": "topic_106",
+        "video_id": "mbpHqb04BI8",
+        "title": "Duck Typing in Python| Python Tutorials for beginners #lec103",
+        "is_processed": true,
+        "ai_data": {
+            "suggested_name": "Duck Typing in Python| Python Tutorials for beginners #lec103",
+            "markdown_notes": "Notes unavailable.",
+            "practice_test": []
+        }
+    },
+    {
+        "topic_id": "topic_107",
+        "video_id": "CGZJ-d4T5eQ",
+        "title": "Operator Overloading in Python | Polymorphism | Python Tutorials for Beginners #lec104",
+        "is_processed": true,
+        "ai_data": {
+            "suggested_name": "Operator Overloading in Python | Polymorphism | Python Tutorials for Beginners #lec104",
+            "markdown_notes": "Notes unavailable.",
+            "practice_test": []
+        }
+    },
+    {
+        "topic_id": "topic_108",
+        "video_id": "1gJQMSZ05HA",
+        "title": "Method Overloading and Method Overriding| Python Tutorials for Beginners #lec105",
+        "is_processed": true,
+        "ai_data": {
+            "suggested_name": "Method Overloading and Method Overriding| Python Tutorials for Beginners #lec105",
+            "markdown_notes": "Notes unavailable.",
+            "practice_test": []
+        }
+    },
+    {
+        "topic_id": "topic_109",
+        "video_id": "ZZ04bIag-HU",
+        "title": "Magic/Dunder Methods in Python | Python Tutorials #lec106",
+        "is_processed": true,
+        "ai_data": {
+            "suggested_name": "Magic/Dunder Methods in Python | Python Tutorials #lec106",
+            "markdown_notes": "Notes unavailable.",
+            "practice_test": []
+        }
+    },
+    {
+        "topic_id": "topic_110",
+        "video_id": "F7cm393pMYk",
+        "title": "Coding Exercise with solution | Exercise 27 | Python for Beginners #lec107",
+        "is_processed": true,
+        "ai_data": {
+            "suggested_name": "Coding Exercise with solution | Exercise 27 | Python for Beginners #lec107",
+            "markdown_notes": "Notes unavailable.",
+            "practice_test": []
+        }
+    },
+    {
+        "topic_id": "topic_111",
+        "video_id": "h2fu66y0_uA",
+        "title": "pip & PyPI in python | Packages in Python | Python Tutorials for Beginners #lec108",
+        "is_processed": true,
+        "ai_data": {
+            "suggested_name": "pip & PyPI in python | Packages in Python | Python Tutorials for Beginners #lec108",
+            "markdown_notes": "Notes unavailable.",
+            "practice_test": []
+        }
+    },
+    {
+        "topic_id": "topic_112",
+        "video_id": "bcDMDlH3Vu8",
+        "title": "Packages in Python | Python Tutorials for Beginners #lec109",
+        "is_processed": true,
+        "ai_data": {
+            "suggested_name": "Packages in Python | Python Tutorials for Beginners #lec109",
+            "markdown_notes": "Notes unavailable.",
+            "practice_test": []
+        }
+    },
+    {
+        "topic_id": "topic_113",
+        "video_id": "8qlf6Cg037o",
+        "title": "If __name__ == '__main__ ' in Python | Python Tutorials for Beginners #lec110",
+        "is_processed": true,
+        "ai_data": {
+            "suggested_name": "If __name__ == '__main__ ' in Python | Python Tutorials for Beginners #lec110",
+            "markdown_notes": "Notes unavailable.",
+            "practice_test": []
+        }
+    },
+    {
+        "topic_id": "topic_114",
+        "video_id": "BxYR_sABIww",
+        "title": "Python Turtle Graphics Introduction | Python Tutorials for Beginners #lec111",
+        "is_processed": true,
+        "ai_data": {
+            "suggested_name": "Python Turtle Graphics Introduction | Python Tutorials for Beginners #lec111",
+            "markdown_notes": "Notes unavailable.",
+            "practice_test": []
+        }
+    },
+    {
+        "topic_id": "topic_115",
+        "video_id": "UmwQ1ROPYBs",
+        "title": "Python Turtle graphics | part 2 | Python Tutorials for Beginners #lec112",
+        "is_processed": true,
+        "ai_data": {
+            "suggested_name": "Python Turtle graphics | part 2 | Python Tutorials for Beginners #lec112",
+            "markdown_notes": "Notes unavailable.",
+            "practice_test": []
+        }
+    },
+    {
+        "topic_id": "topic_116",
+        "video_id": "hkyQEaDg_gM",
+        "title": "Turtle Coding Exercise for Beginners in Python |Exercise 28 | Python for Beginners #lec113",
+        "is_processed": true,
+        "ai_data": {
+            "suggested_name": "Turtle Coding Exercise for Beginners in Python |Exercise 28 | Python for Beginners #lec113",
+            "markdown_notes": "Notes unavailable.",
+            "practice_test": []
+        }
+    },
+    {
+        "topic_id": "topic_117",
+        "video_id": "1u4yQe-1WN0",
+        "title": "Turtle Coding Exercise for Beginners in Python |Exercise 29 | Python for Beginners #lec114",
+        "is_processed": true,
+        "ai_data": {
+            "suggested_name": "Turtle Coding Exercise for Beginners in Python |Exercise 29 | Python for Beginners #lec114",
+            "markdown_notes": "Notes unavailable.",
+            "practice_test": []
+        }
+    },
+    {
+        "topic_id": "topic_118",
+        "video_id": "FFrBaOUgbgg",
+        "title": "Coding Exercise for Beginners in Python |Exercise 30 | Python for Beginners #lec115",
+        "is_processed": true,
+        "ai_data": {
+            "suggested_name": "Coding Exercise for Beginners in Python |Exercise 30 | Python for Beginners #lec115",
+            "markdown_notes": "Notes unavailable.",
+            "practice_test": []
+        }
+    },
+    {
+        "topic_id": "topic_119",
+        "video_id": "HiTbawXkcIA",
+        "title": "Coding Exercise for Beginners in Python |Exercise 31 | Python for Beginners #lec116",
+        "is_processed": true,
+        "ai_data": {
+            "suggested_name": "Coding Exercise for Beginners in Python |Exercise 31 | Python for Beginners #lec116",
+            "markdown_notes": "Notes unavailable.",
+            "practice_test": []
+        }
+    },
+    {
+        "topic_id": "topic_120",
+        "video_id": "i0cbG0hlWg8",
+        "title": "Coding Exercise for Beginners in Python |Exercise 32 | Python for Beginners #lec118",
+        "is_processed": true,
+        "ai_data": {
+            "suggested_name": "Coding Exercise for Beginners in Python |Exercise 32 | Python for Beginners #lec118",
+            "markdown_notes": "Notes unavailable.",
+            "practice_test": []
+        }
+    },
+    {
+        "topic_id": "topic_121",
+        "video_id": "y38sbuRjhAs",
+        "title": "Python Project for beginners #11| Turtle Race Project | Python for Beginners #lec119",
+        "is_processed": true,
+        "ai_data": {
+            "suggested_name": "Python Project for beginners #11| Turtle Race Project | Python for Beginners #lec119",
+            "markdown_notes": "Notes unavailable.",
+            "practice_test": []
+        }
+    },
+    {
+        "topic_id": "topic_122",
+        "video_id": "KKJ-Vvewu0w",
+        "title": "Python Higher Order Functions | Python Tutorials for Beginners #lec120",
+        "is_processed": true,
+        "ai_data": {
+            "suggested_name": "Python Higher Order Functions | Python Tutorials for Beginners #lec120",
+            "markdown_notes": "Notes unavailable.",
+            "practice_test": []
+        }
+    },
+    {
+        "topic_id": "topic_123",
+        "video_id": "7dnk_wE79i4",
+        "title": "Python Event Listeners | Python Tutorials for Beginners #lec121",
+        "is_processed": true,
+        "ai_data": {
+            "suggested_name": "Python Event Listeners | Python Tutorials for Beginners #lec121",
+            "markdown_notes": "Notes unavailable.",
+            "practice_test": []
+        }
+    },
+    {
+        "topic_id": "topic_124",
+        "video_id": "sql6iaFe5D4",
+        "title": "Coding Exercise for Beginners in Python |Exercise 33 | Python for Beginners #lec122",
+        "is_processed": true,
+        "ai_data": {
+            "suggested_name": "Coding Exercise for Beginners in Python |Exercise 33 | Python for Beginners #lec122",
+            "markdown_notes": "Notes unavailable.",
+            "practice_test": []
+        }
+    },
+    {
+        "topic_id": "topic_125",
+        "video_id": "q06z4k57R5E",
+        "title": "Extracting RGB values from Image in Python | Colorgram Package | Python for Beginners #lec117",
+        "is_processed": true,
+        "ai_data": {
+            "suggested_name": "Extracting RGB values from Image in Python | Colorgram Package | Python for Beginners #lec117",
+            "markdown_notes": "Notes unavailable.",
+            "practice_test": []
+        }
+    }
+]
